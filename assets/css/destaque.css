@@ -61,7 +61,6 @@
 }
 
 .destaques__categorias {
-    grid-column: 1 / 3;
     grid-row: 3 / 4;
 }
 

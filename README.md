@@ -5,7 +5,7 @@
 
 <div> 
 <h1 align="center"> 
-    <img src="assets/img/preview.png" alt="Marvel" width="1280 ">
+    <img src="assets/img/preview.png" alt="Grid Alura" width="1280 ">
 </h1>
 </div>
 
